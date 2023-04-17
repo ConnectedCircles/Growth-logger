@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "growth-logger",
+  "private_key_id": "f8043abda96b0026793254f2fad5bb2fc2b3a366",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnNYgileISzMek\n6b/XS4tnAkliuZcoOVkKwjgSyK/9VgHjoYjflZ2t/vQFaljXQv/Qtc+A1bO+J8G7\npTQPhHhkcBeI7+E3UdTX7QzO7d4jMLhUr1uO7zj6SYR1N1nLtDTl8tzBbvwyqKjC\nXaQi87zDkNgnpN1bFysPKPFzrp6vBZUXse3VyJIhuZJsDgzFwfaS4UBX0yM62CAs\nTuW9HdK9FE9AIs468IITViAZ37ezgZiKC73HqWQDmX2HxTEOBQH4+3VM4+0NH6T7\n9CMPsjxCpy2l0TH4bOQWCnuhGRXvn0Orm54Zvh39ggHf0fhdnkV2xR4lgRYqniXz\n7SbwHv8JAgMBAAECggEAMvnzAvhG8AxWYUSSJAT3/vOHg/2ow66YItuLVM6yOL3b\n3ZYFsIRgigdMRcpiQ149t1d2Z4S/Q53DRn3bHU/5lEVIJ4taUg80oI+4c+2452mX\nCNpdQ3pTGJsJMuMpER1jcydTffVkFd2tdXQu8ij0x3qFK7DrezXY/sowsl/uKNVA\nshsaThDRBCp1zJm0bpAuQ8GpDuyiQXbE6V3FuSp20I74y5YDx1LMW3PDh/5ClFn3\ncj1XsV43R9FhcPKD8fj/nUb+0gr1ll5bAiqOEMtKttkIaorzmfjBEU0+agnicfAw\ncYtBQrGl+d3GNA1CpA1ehTAGVLlje0gHVpITGXlS8QKBgQDRHQdODjx6MfsGOXaj\n2aETOJ3TY2n4zLn37o6jRL2CHUHvCBSD/8kA1/CGHH0Nw+dOPcpZ0iqSSKtbVcsU\nv674ua5XiJKZUvOu6/+R05PhKIn6L0ZQGYbjbSetwXyDyHK+2QjHf+FZZDlIVxy/\nPI2Gd4XnmU9J+ZOxlNWWtMIpDwKBgQDMszmPAV6yWAwd6r5Y+tRpHoFgv9tJg0V8\n2vSZTa55LTN6yRyzIA+F+DR27+Ik2q9oiJFrj4g9veTxhyg5qq3CB7Yg+34S+tn+\nJ0EvWnEiCC3rGgrHKC7k6AyT3cNCaIloJqEnF35Ah8+Dv4Ca2TYGJvw73kBZsAw2\n/Yr1txPmZwKBgH7LdTR1GWKWj7kUesWbHjoDaF9Wtljv+gtFkSOaeLY+e04uvhHT\ntNNYHDWVbJY+JTCh8uJHtxyAB7cX7E2mdLfIDthwrUNesvdrjcmkWtR5ukADDkVf\nVRTtiNOosJFPp5PlEZe2CLQlOz6L45hpZP8V1hG6OgOG23Ef5+q7q8ctAoGBAKSs\nYdeLcJTkhArlN2/5iTtvkQE2FsES26nPswpJFdzh4hIbC/2GAzbxL7Om0zR2wLnF\nc8cl1qJky3MKGfAaQGJhNcFe0FOQfiIZjjT7+xs3nUkO0DDbQK5hhwzFUDlyQ2gH\n+4ipO6XKG8SPIHRx3SYh4rR+3SHJoGn0mf+F4nptAoGAI7aA1Gv26b9tCj+jA3GY\n+5KH4aRK/ofybpaSPZV58fbexX6+Jn3WI7OqR6Il/WivosyYvacTZusNTTMpT8g2\nzOt2a6eUtW7rP526YTLjS5q4ITiD58imoS/uSoISaW96kP8bllJuOe4mjZwnlFuP\nhNFUxo+BqlrlcjgUGkqvcOA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "growth-logger@growth-logger.iam.gserviceaccount.com",
+  "client_id": "112598327620861380900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/growth-logger%40growth-logger.iam.gserviceaccount.com"
+}
