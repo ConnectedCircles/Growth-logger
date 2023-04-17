@@ -7,7 +7,7 @@ from google.oauth2.service_account import Credentials
 
 # Set up Google Sheets credentials
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = Credentials.from_service_account_file('creds.json')
+creds = Credentials.from_service_account_file('growth-logger-f8043abda96b.json')
 client = gspread.authorize(creds)
 
 # Define function to append data to Google Sheet
