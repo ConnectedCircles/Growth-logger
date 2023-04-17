@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import base64
+import datetime
 
 def app():
     
@@ -9,8 +10,11 @@ def app():
     st.subheader("Property of Connected Circles")
     st.write("""This app allows you to """)
     
+    # Set client name, invite date and category
     ClientName = st.text_input("Enter client name")
-    st.write("Client name entered:", ClientName)
+    DateInvited = st.date_input("Select a date", datetime.date.today())
+    Category = st.text_input("Enter category")
+
 
     
     # File uploader
