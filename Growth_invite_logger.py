@@ -27,8 +27,8 @@ def app():
     # Create a column for the name of the client
         df.insert(0, "Client Name", ClientName)
         # Rewrite the date and category columns
-        df["Date collected"] == DateInvited
-        df["Category"] == Category
+        df["Date collected"] = DateInvited
+        df["Category"] = Category
 
   
 
