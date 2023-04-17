@@ -3,11 +3,11 @@ import streamlit as st
 import base64
 import datetime
 import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+from google.oauth2.service_account import Credentials
 
 # Set up Google Sheets credentials
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("growth-logger-f8043abda96b.json", scope)
+creds = Credentials.from_service_account_file('creds.json')
 client = gspread.authorize(creds)
 
 # Define function to append data to Google Sheet
