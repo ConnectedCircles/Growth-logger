@@ -21,7 +21,12 @@ def app():
         
         df.insert(0, "Client Name", ClientName)
 
+  
+
+##### DISPLAY OF RESULTS #####
         
+        # Display both filtered and unfiltered data in two windows with links to download each below
+        st.write(df)
         
         
 if __name__ == "__main__":
